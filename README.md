@@ -21,7 +21,7 @@ Data covering 2016-2019:
 8. Map-Census data correlations
 9. Clean up murder weapon groupings
 10. Predict 2020 data
-11. Clue type prediction? You are most likely to be murdered at this place with this weapon by a Male/Female during this month and relationship,
+11. Clue type prediction? You are most likely to be murdered at this age at this place with this weapon by a Male/Female during this month and relationship,
 
 Tenative Schedule:
 1. Wednesday: Data Cleanup
