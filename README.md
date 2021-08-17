@@ -17,8 +17,9 @@ Data covering 2016-2019:
 4. Gender
 5. weapon bar chart/pie chart
 6. Map
-7. Clean up murder weapon groupings
-8. Predict 2020 data
+7. Map-Census data correlations
+8. Clean up murder weapon groupings
+9. Predict 2020 data
 
 Tenative Schedule:
 1. Wednesday: Data Cleanup
