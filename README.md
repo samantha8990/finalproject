@@ -16,10 +16,12 @@ Data covering 2016-2019:
 3. solved vs unsolved
 4. Gender
 5. weapon bar chart/pie chart
-6. Map
-7. Map-Census data correlations
-8. Clean up murder weapon groupings
-9. Predict 2020 data
+6. relationship chart
+7. Map
+8. Map-Census data correlations
+9. Clean up murder weapon groupings
+10. Predict 2020 data
+11. Clue type prediction? You are most likely to be murdered at this place with this weapon by a Male/Female during this month and relationship,
 
 Tenative Schedule:
 1. Wednesday: Data Cleanup
