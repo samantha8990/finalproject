@@ -21,6 +21,7 @@ Data covering 2016-2019:
 8. Predict 2020 data
 
 Tenative Schedule:
-Wednesday: Data Cleanup
-Saturday/Monday: Analysis Prediction
-Wednesday/Saturday: Charts in Tableau
+1. Wednesday: Data Cleanup
+2. Saturday/Monday: Analysis Prediction
+3. Wednesday/Saturday: Charts in Tableau
+
