@@ -30,6 +30,7 @@ With the ease of Tableau, we were able to cover all items we wished we had in Pr
 Resources:
 1. http://www.murderdata.org/
 2. https://www.kaggle.com/peretzcohen/2019-census-us-population-data-by-state
+3. https://www.istockphoto.com/photo/murderer-back-on-the-crime-scene-gm156325442-20035002 (image)
 <br>
 Link to Tableau:<br>
 1. https://public.tableau.com/app/profile/arianne.toepfer/viz/MurderDataFinalProject/SummaryOfMurderData
