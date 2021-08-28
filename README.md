@@ -32,5 +32,5 @@ Resources:
 2. https://sarcadass.github.io/granim.js/examples.html
 3. https://www.kaggle.com/peretzcohen/2019-census-us-population-data-by-state
 <br>
-Link to Tableau:
+Link to Tableau:<br>
 1. https://public.tableau.com/app/profile/arianne.toepfer/viz/MurderDataFinalProject/SummaryOfMurderData
