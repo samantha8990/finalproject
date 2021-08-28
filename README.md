@@ -6,8 +6,8 @@ Ashley Aguayo, Arianne Toepfer, Bitty Fennie,
 Samantha Sommer, & Tracy Ammann<br>
 
 Objective:
-	To analyze trends with murder data from Project 2 but with less limitations on data quantity. This round, explored both unsolved and solved cases from the years 2016-2019 rather than just unsolved crimes of 2019.
-	We used Neural Network Mapping to accurately predict the gender of the offender as well as the solved or unsolved status of the specified murder. The final project is hosted on tableau public and with a storyboard and multiple interactive dashboards. Here is a record of analysis found on Tableau public listed below.
+	To analyze trends with murder data from Project 2 but with less limitations on data quantity. This round, we explored both unsolved and solved cases from the years 2016-2019 rather than just unsolved crimes of 2019.
+	We used Neural Network Mapping to accurately predict the gender of the offender as well as the solved or unsolved status of the specified murder. The final project is hosted on tableau public, with a storyboard and multiple interactive dashboards. The record of analysis found on Tableau public is listed below.
 
 Charting:
 1. Total Cases in US (Map)
@@ -26,5 +26,10 @@ Charting:
 14. Highest Cases of Stranger Murder (Top 10)
 15. Highest Cases of Stranger Murder by Month
 
-With the ease of Tableau, we were able to cover all items we wished we had in Project 2 as well as explore some unique data. We were able to isolate the Stranger relationship and find the most likely scenario on how a person could die by a Stranger's hand, or gun. This project was very fun and the whole team worked well together to deliver a cohesive project. 
-
+With the ease of Tableau, we were able to cover all items we wished we had in Project 2 as well as explore some unique data. We were able to isolate the Stranger relationship and find the most likely scenario on how a person could die by a Stranger's hand, or gun. This project was very fun and the whole team worked well together to deliver a cohesive project. <br>
+Resources:
+1. http://www.murderdata.org/
+2. https://www.kaggle.com/peretzcohen/2019-census-us-population-data-by-state
+<br>
+Link to Tableau:<br>
+1. https://public.tableau.com/app/profile/arianne.toepfer/viz/MurderDataFinalProject/SummaryOfMurderData
