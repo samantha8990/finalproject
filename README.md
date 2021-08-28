@@ -28,9 +28,8 @@ Charting:
 
 With the ease of Tableau, we were able to cover all items we wished we had in Project 2 as well as explore some unique data. We were able to isolate the Stranger relationship and find the most likely scenario on how a person could die by a Stranger's hand, or gun. This project was very fun and the whole team worked well together to deliver a cohesive project. <br>
 Resources:
-1. https://www.kaggle.com/vesuvius13/serial-killers-dataset https://en.wikipedia.org/wiki/List_of_serial_killers_in_the_United_States
-2. https://sarcadass.github.io/granim.js/examples.html
-3. https://www.kaggle.com/peretzcohen/2019-census-us-population-data-by-state
+1. http://www.murderdata.org/
+2. https://www.kaggle.com/peretzcohen/2019-census-us-population-data-by-state
 <br>
 Link to Tableau:<br>
 1. https://public.tableau.com/app/profile/arianne.toepfer/viz/MurderDataFinalProject/SummaryOfMurderData
