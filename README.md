@@ -6,8 +6,8 @@ Ashley Aguayo, Arianne Toepfer, Bitty Fennie,
 Samantha Sommer, & Tracy Ammann<br>
 
 Objective:
-	To analyze trends with murder data from Project 2 but with less limitations on data quantity. This round, explored both unsolved and solved cases from the years 2016-2019 rather than just unsolved crimes of 2019.
-	We used Neural Network Mapping to accurately predict the gender of the offender as well as the solved or unsolved status of the specified murder. The final project is hosted on tableau public and with a storyboard and multiple interactive dashboards. Here is a record of analysis found on Tableau public listed below.
+	To analyze trends with murder data from Project 2 but with less limitations on data quantity. This round, we explored both unsolved and solved cases from the years 2016-2019 rather than just unsolved crimes of 2019.
+	We used Neural Network Mapping to accurately predict the gender of the offender as well as the solved or unsolved status of the specified murder. The final project is hosted on tableau public, with a storyboard and multiple interactive dashboards. The record of analysis found on Tableau public is listed below.
 
 Charting:
 1. Total Cases in US (Map)
